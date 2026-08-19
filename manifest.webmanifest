@@ -1,6 +1,6 @@
 {
   "name":"ShiftWatch",
-  "short_name":"شیفت ناظرین",
+  "short_name":"ShiftWatch",
   "start_url":"./",
   "display":"standalone",
   "background_color":"#f5f7fa",
