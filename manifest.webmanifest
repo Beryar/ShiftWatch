@@ -1,5 +1,5 @@
 {
-  "name":"برنامه شیفت ناظرین خط و ابنیه",
+  "name":"ShiftWatch",
   "short_name":"شیفت ناظرین",
   "start_url":"./",
   "display":"standalone",
